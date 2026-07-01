@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/codeWithSahil111/My-leetCode/tree/master/0485-max-consecutive-ones) |
 | [1652-defuse-the-bomb](https://github.com/codeWithSahil111/My-leetCode/tree/master/1652-defuse-the-bomb) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2540-minimum-common-value](https://github.com/codeWithSahil111/My-leetCode/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2540-minimum-common-value](https://github.com/codeWithSahil111/My-leetCode/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/codeWithSahil111/My-leetCode/tree/master/2540-minimum-common-value) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/codeWithSahil111/My-leetCode/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
