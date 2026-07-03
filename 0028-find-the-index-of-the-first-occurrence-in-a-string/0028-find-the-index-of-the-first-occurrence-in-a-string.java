@@ -1,0 +1,17 @@
+class Solution {
+    public int strStr(String haystack, String needle) {
+        for(int i =0; i<= haystack.length()-needle.length(); i++){
+            Boolean match = true;
+
+            for(int j = 0; j<needle.length(); j++){
+                if(needle.charAt(j) != haystack.charAt(i+j)){
+                    match = false;
+                }
+            }
+            if(match) {
+                return i;
+            }
+        }
+        return -1;
+    }
+}
