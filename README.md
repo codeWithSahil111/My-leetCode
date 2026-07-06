@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/codeWithSahil111/My-leetCode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/codeWithSahil111/My-leetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0525-contiguous-array) |
@@ -58,10 +59,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/codeWithSahil111/My-leetCode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0525-contiguous-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/codeWithSahil111/My-leetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
