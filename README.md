@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/codeWithSahil111/My-leetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0525-contiguous-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/codeWithSahil111/My-leetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/codeWithSahil111/My-leetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
