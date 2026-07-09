@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/codeWithSahil111/My-leetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/codeWithSahil111/My-leetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
 |  |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/codeWithSahil111/My-leetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0523-continuous-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/codeWithSahil111/My-leetCode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
