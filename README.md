@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/codeWithSahil111/My-leetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/codeWithSahil111/My-leetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0523-continuous-subarray-sum) |
