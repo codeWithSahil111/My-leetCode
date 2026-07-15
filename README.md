@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/codeWithSahil111/My-leetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/codeWithSahil111/My-leetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/codeWithSahil111/My-leetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/codeWithSahil111/My-leetCode/tree/master/0485-max-consecutive-ones) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/codeWithSahil111/My-leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeWithSahil111/My-leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSahil111/My-leetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codeWithSahil111/My-leetCode/tree/master/0169-majority-element) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## String
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/codeWithSahil111/My-leetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/codeWithSahil111/My-leetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/codeWithSahil111/My-leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeWithSahil111/My-leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSahil111/My-leetCode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
