@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/codeWithSahil111/My-leetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0525-contiguous-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1652-defuse-the-bomb](https://github.com/codeWithSahil111/My-leetCode/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1929-concatenation-of-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/codeWithSahil111/My-leetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/codeWithSahil111/My-leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeWithSahil111/My-leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSahil111/My-leetCode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
