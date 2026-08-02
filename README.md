@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeWithSahil111/My-leetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/codeWithSahil111/My-leetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/codeWithSahil111/My-leetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/codeWithSahil111/My-leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/codeWithSahil111/My-leetCode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/codeWithSahil111/My-leetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeWithSahil111/My-leetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/1025-divisor-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codeWithSahil111/My-leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/1025-divisor-game) |
 ## Trie
 |  |
