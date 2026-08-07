@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codeWithSahil111/My-leetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/codeWithSahil111/My-leetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/codeWithSahil111/My-leetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/codeWithSahil111/My-leetCode/tree/master/0905-sort-array-by-parity) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/codeWithSahil111/My-leetCode/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
