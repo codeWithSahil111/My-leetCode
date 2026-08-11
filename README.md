@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/codeWithSahil111/My-leetCode/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/codeWithSahil111/My-leetCode/tree/master/1652-defuse-the-bomb) |
+| [1833-maximum-ice-cream-bars](https://github.com/codeWithSahil111/My-leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSahil111/My-leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/codeWithSahil111/My-leetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/codeWithSahil111/My-leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/codeWithSahil111/My-leetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codeWithSahil111/My-leetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/codeWithSahil111/My-leetCode/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/codeWithSahil111/My-leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codeWithSahil111/My-leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/codeWithSahil111/My-leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codeWithSahil111/My-leetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Minimax
 |  |
