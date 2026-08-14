@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/codeWithSahil111/My-leetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/codeWithSahil111/My-leetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSahil111/My-leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2540-minimum-common-value](https://github.com/codeWithSahil111/My-leetCode/tree/master/2540-minimum-common-value) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/codeWithSahil111/My-leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/codeWithSahil111/My-leetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/codeWithSahil111/My-leetCode/tree/master/0415-add-strings) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/codeWithSahil111/My-leetCode/tree/master/1406-stone-game-iii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/codeWithSahil111/My-leetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
