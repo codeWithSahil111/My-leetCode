@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/codeWithSahil111/My-leetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/codeWithSahil111/My-leetCode/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/codeWithSahil111/My-leetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/codeWithSahil111/My-leetCode/tree/master/1200-minimum-absolute-difference) |
