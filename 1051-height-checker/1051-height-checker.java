@@ -7,15 +7,8 @@ class Solution {
             newHights[i] = heights[i];
         }
 
-        for (int i = 0; i < heights.length; i++) {
-            for (int j = i; j < heights.length; j++) {
-                if (heights[i] > heights[j]) {
-                    int temp = heights[i];
-                    heights[i] = heights[j];
-                    heights[j] = temp;
-                }
-            }
-        }
+        Arrays.sort(heights);
+       
         for (int i = 0; i < heights.length; i++) {
             if (heights[i] != newHights[i]) {
                 count++;
