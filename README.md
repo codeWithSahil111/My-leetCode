@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/codeWithSahil111/My-leetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/codeWithSahil111/My-leetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/codeWithSahil111/My-leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codeWithSahil111/My-leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codeWithSahil111/My-leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/codeWithSahil111/My-leetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codeWithSahil111/My-leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/codeWithSahil111/My-leetCode/tree/master/0152-maximum-product-subarray) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codeWithSahil111/My-leetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/codeWithSahil111/My-leetCode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0680-valid-palindrome-ii) |
