@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/codeWithSahil111/My-leetCode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/codeWithSahil111/My-leetCode/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/codeWithSahil111/My-leetCode/tree/master/1952-three-divisors) |
 | [2469-convert-the-temperature](https://github.com/codeWithSahil111/My-leetCode/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codeWithSahil111/My-leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/codeWithSahil111/My-leetCode/tree/master/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codeWithSahil111/My-leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -315,4 +317,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/codeWithSahil111/My-leetCode/tree/master/1051-height-checker) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/codeWithSahil111/My-leetCode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/codeWithSahil111/My-leetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/codeWithSahil111/My-leetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
