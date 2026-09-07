@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/codeWithSahil111/My-leetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/codeWithSahil111/My-leetCode/tree/master/1051-height-checker) |
 ## Enumeration
 |  |
@@ -356,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/codeWithSahil111/My-leetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/codeWithSahil111/My-leetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
