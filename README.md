@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/codeWithSahil111/My-leetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codeWithSahil111/My-leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/codeWithSahil111/My-leetCode/tree/master/2540-minimum-common-value) |
+| [2706-buy-two-chocolates](https://github.com/codeWithSahil111/My-leetCode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codeWithSahil111/My-leetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/codeWithSahil111/My-leetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codeWithSahil111/My-leetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/codeWithSahil111/My-leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/codeWithSahil111/My-leetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2706-buy-two-chocolates](https://github.com/codeWithSahil111/My-leetCode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codeWithSahil111/My-leetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codeWithSahil111/My-leetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/codeWithSahil111/My-leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2706-buy-two-chocolates](https://github.com/codeWithSahil111/My-leetCode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codeWithSahil111/My-leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
 |  |
