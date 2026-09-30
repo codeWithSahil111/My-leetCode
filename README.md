@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/codeWithSahil111/My-leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/codeWithSahil111/My-leetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/codeWithSahil111/My-leetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/codeWithSahil111/My-leetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0680-valid-palindrome-ii) |
@@ -420,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
