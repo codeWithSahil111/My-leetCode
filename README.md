@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/codeWithSahil111/My-leetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/codeWithSahil111/My-leetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/codeWithSahil111/My-leetCode/tree/master/0415-add-strings) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/codeWithSahil111/My-leetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/codeWithSahil111/My-leetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/codeWithSahil111/My-leetCode/tree/master/0645-set-mismatch) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0334-increasing-triplet-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/codeWithSahil111/My-leetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
