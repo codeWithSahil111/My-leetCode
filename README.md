@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/codeWithSahil111/My-leetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codeWithSahil111/My-leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codeWithSahil111/My-leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codeWithSahil111/My-leetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/codeWithSahil111/My-leetCode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codeWithSahil111/My-leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/codeWithSahil111/My-leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/codeWithSahil111/My-leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/codeWithSahil111/My-leetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codeWithSahil111/My-leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/codeWithSahil111/My-leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/codeWithSahil111/My-leetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codeWithSahil111/My-leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bubble Sort
 |  |
 | ------- |
