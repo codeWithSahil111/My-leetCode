@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/codeWithSahil111/My-leetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/codeWithSahil111/My-leetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/codeWithSahil111/My-leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/codeWithSahil111/My-leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/codeWithSahil111/My-leetCode/tree/master/0389-find-the-difference) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codeWithSahil111/My-leetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/codeWithSahil111/My-leetCode/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## String
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/codeWithSahil111/My-leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codeWithSahil111/My-leetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/codeWithSahil111/My-leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/codeWithSahil111/My-leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/codeWithSahil111/My-leetCode/tree/master/0389-find-the-difference) |
@@ -460,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/codeWithSahil111/My-leetCode/tree/master/0231-power-of-two) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
