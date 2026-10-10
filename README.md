@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSahil111/My-leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codeWithSahil111/My-leetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/codeWithSahil111/My-leetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/codeWithSahil111/My-leetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0219-contains-duplicate-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/codeWithSahil111/My-leetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/codeWithSahil111/My-leetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0292-nim-game) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/codeWithSahil111/My-leetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/codeWithSahil111/My-leetCode/tree/master/2413-smallest-even-multiple) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/codeWithSahil111/My-leetCode/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/codeWithSahil111/My-leetCode/tree/master/1952-three-divisors) |
 ## Euclidean Algorithm
 |  |
@@ -470,4 +475,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0229-majority-element-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
