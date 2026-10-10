@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/codeWithSahil111/My-leetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/codeWithSahil111/My-leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/codeWithSahil111/My-leetCode/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/codeWithSahil111/My-leetCode/tree/master/1652-defuse-the-bomb) |
 | [1833-maximum-ice-cream-bars](https://github.com/codeWithSahil111/My-leetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/codeWithSahil111/My-leetCode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
