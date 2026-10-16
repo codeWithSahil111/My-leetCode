@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/codeWithSahil111/My-leetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/codeWithSahil111/My-leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/codeWithSahil111/My-leetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/codeWithSahil111/My-leetCode/tree/master/0520-detect-capital) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/codeWithSahil111/My-leetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/codeWithSahil111/My-leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/codeWithSahil111/My-leetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0523-continuous-subarray-sum) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/codeWithSahil111/My-leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/codeWithSahil111/My-leetCode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSahil111/My-leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
