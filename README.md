@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/codeWithSahil111/My-leetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/codeWithSahil111/My-leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/codeWithSahil111/My-leetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/codeWithSahil111/My-leetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/codeWithSahil111/My-leetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/codeWithSahil111/My-leetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/codeWithSahil111/My-leetCode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0678-valid-parenthesis-string) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/codeWithSahil111/My-leetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/codeWithSahil111/My-leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/codeWithSahil111/My-leetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codeWithSahil111/My-leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -502,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
