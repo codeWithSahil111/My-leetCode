@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/codeWithSahil111/My-leetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/codeWithSahil111/My-leetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codeWithSahil111/My-leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/codeWithSahil111/My-leetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/codeWithSahil111/My-leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codeWithSahil111/My-leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/codeWithSahil111/My-leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codeWithSahil111/My-leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/codeWithSahil111/My-leetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/codeWithSahil111/My-leetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/codeWithSahil111/My-leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codeWithSahil111/My-leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codeWithSahil111/My-leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Ternary Search
 |  |
 | ------- |
