@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/codeWithSahil111/My-leetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/codeWithSahil111/My-leetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/codeWithSahil111/My-leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codeWithSahil111/My-leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/codeWithSahil111/My-leetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/codeWithSahil111/My-leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/codeWithSahil111/My-leetCode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/codeWithSahil111/My-leetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/codeWithSahil111/My-leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/codeWithSahil111/My-leetCode/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/codeWithSahil111/My-leetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/codeWithSahil111/My-leetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/codeWithSahil111/My-leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSahil111/My-leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/codeWithSahil111/My-leetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/codeWithSahil111/My-leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/codeWithSahil111/My-leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codeWithSahil111/My-leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/codeWithSahil111/My-leetCode/tree/master/2540-minimum-common-value) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/codeWithSahil111/My-leetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/codeWithSahil111/My-leetCode/tree/master/1200-minimum-absolute-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/codeWithSahil111/My-leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/codeWithSahil111/My-leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
