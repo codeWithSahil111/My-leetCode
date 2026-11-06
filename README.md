@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeWithSahil111/My-leetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/codeWithSahil111/My-leetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/codeWithSahil111/My-leetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/codeWithSahil111/My-leetCode/tree/master/0217-contains-duplicate) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codeWithSahil111/My-leetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/codeWithSahil111/My-leetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/codeWithSahil111/My-leetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/codeWithSahil111/My-leetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/codeWithSahil111/My-leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/codeWithSahil111/My-leetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/codeWithSahil111/My-leetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/codeWithSahil111/My-leetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/codeWithSahil111/My-leetCode/tree/master/0204-count-primes) |
