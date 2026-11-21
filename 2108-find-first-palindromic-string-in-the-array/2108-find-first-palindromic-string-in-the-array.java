@@ -5,18 +5,18 @@ class Solution {
 
         while(i <= j){
             if(s.charAt(i) != s.charAt(j)){
-                return true;
+                return false;
             }
             i++;
             j--;
         }
-        return false;
+        return true;
     }
     public String firstPalindrome(String[] words) {
         StringBuilder sb = new StringBuilder();
 
         for(int i =0; i<words.length; i++){
-            if(!isPelin(words[i])){
+            if(isPelin(words[i])){
                 sb.append(words[i]);
                 break;
             }
