@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/codeWithSahil111/My-leetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/codeWithSahil111/My-leetCode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/codeWithSahil111/My-leetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/codeWithSahil111/My-leetCode/tree/master/1200-minimum-absolute-difference) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/codeWithSahil111/My-leetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/codeWithSahil111/My-leetCode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/codeWithSahil111/My-leetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/codeWithSahil111/My-leetCode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/codeWithSahil111/My-leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeWithSahil111/My-leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/codeWithSahil111/My-leetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codeWithSahil111/My-leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/codeWithSahil111/My-leetCode/tree/master/0962-maximum-width-ramp) |
 | [2390-removing-stars-from-a-string](https://github.com/codeWithSahil111/My-leetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting Sort
 |  |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/codeWithSahil111/My-leetCode/tree/master/0402-remove-k-digits) |
+| [0962-maximum-width-ramp](https://github.com/codeWithSahil111/My-leetCode/tree/master/0962-maximum-width-ramp) |
 ## Quickselect
 |  |
 | ------- |
